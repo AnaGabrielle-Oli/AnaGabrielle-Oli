@@ -6,7 +6,7 @@ Sou estudante de Ciência da Computação e apaixonado pelo universo do desenvol
 
 <p align="left">
       <a href="https://www.linkedin.com/in/ana-gabrielle-da-silva-oliveira/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &0e76a8;&0e76a8;&0e76a8;&0e76a8;&0e76a8;
+  
    </p>
 
 
