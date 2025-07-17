@@ -17,6 +17,9 @@ Sou estudante de Ciência da Computação e apaixonado pelo universo do desenvol
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
 <br /><br/><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaGabrielle-Oli&theme=tokyonight&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaGabrielle-Oli&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnaGabrielle-Oli&theme=tokyonight&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaGabrielle-Oli&layout=compact&theme=tokyonight" />
+</a>
