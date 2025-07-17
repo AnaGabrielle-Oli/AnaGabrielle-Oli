@@ -2,8 +2,10 @@
 
 Sou estudante de Ciência da Computação e apaixonado pelo universo do desenvolvimento backend. Este é meu espaço no GitHub, onde transformo ideias em código. Adoro o desafio de aprender e de desenvolver soluções para problemas do mundo real através da tecnologia.
 
+
+
 <p align="left">
-      <a href="www.linkedin.com/in/ana-gabrielle-da-silva-oliveira/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+      <a href="https://www.linkedin.com/in/ana-gabrielle-da-silva-oliveira/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
    </p>
 
@@ -13,7 +15,8 @@ Sou estudante de Ciência da Computação e apaixonado pelo universo do desenvol
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
-<br /><br/>
+<br /><br/><br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaGabrielle-Oli&theme=tokyonight&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaGabrielle-Oli&layout=compact)
