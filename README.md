@@ -3,11 +3,14 @@
 Sou estudante de Ciência da Computação e apaixonado pelo universo do desenvolvimento backend. Este é meu espaço no GitHub, onde transformo ideias em código. Adoro o desafio de aprender e de desenvolver soluções para problemas do mundo real através da tecnologia.
 
 
+<div align="left">
 
-<p align="left">
-      <a href="https://www.linkedin.com/in/ana-gabrielle-da-silva-oliveira/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  
-   </p>
+<a href="https://www.linkedin.com/in/ana-gabrielle-da-silva-oliveira/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+</div>  
+
 
 
 ## 🛠️ Linguagens e Ferramentas:
