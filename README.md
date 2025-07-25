@@ -1,6 +1,6 @@
 # Ana Gabrielle
 
-Sou estudante de Ciência da Computação e apaixonado pelo universo do desenvolvimento backend. Este é meu espaço no GitHub, onde transformo ideias em código. Adoro o desafio de aprender e de desenvolver soluções para problemas do mundo real através da tecnologia.
+Sou estudante de Ciência da Computação e apaixonada pelo universo do desenvolvimento backend. Este é meu espaço no GitHub, onde transformo ideias em código. Adoro o desafio de aprender e de desenvolver soluções para problemas do mundo real através da tecnologia.
 
 
 <div align="left">
